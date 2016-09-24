@@ -1,24 +1,22 @@
-var gameInput = $("#bot-input");
-var gameOutput  = $("#bot-output");
-gameInput.keydown(function(keydownEvent) {  
-  // the key code for enter is 13
-  if (keydownEvent.keyCode == 13) {      
-    parseText(gameInput.val()); 
-    gameInput.val("");
-  }  
-})
+<html>
+  <head>
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="bot-name">
+      Bot Name Here
+    </div>
+    <div id="bot-input-container">        
+      <input id="bot-input" type="text"/>      
+    </div>
+    <div>
+      <div id="bot-output"> 
 
-function parseText(text) {    
-    if (text === "hello") {
-      gameOutput.html("Hi there!");
-    }  else if (text === "what is your name") {
-        gameOutput.html("my name is chese!");
-    }  else if (text === "is jesse and allen a buttface") {
-      gameOutput.html("Yes!");
-    }
-}
-
-
-
-  
-
+      </div>      
+    </div>
+    <img id="robot-pic"src="https://pbs.twimg.com/profile_images/484689868140711936/WQ6vjWbW_400x400.jpeg">
+    <script src="script.js">
+    </script>
+  </body>
+</html>
