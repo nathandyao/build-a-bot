@@ -17,7 +17,7 @@ function parseText(text) {
       gameOutput.html("Yes!");
     }
 }
-<img id="robot-pic" src="">
+<img id="robot-pic"src="https://pbs.twimg.com/profile_images/484689868140711936/WQ6vjWbW_400x400.jpeg">
 
 
   
