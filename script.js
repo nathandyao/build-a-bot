@@ -14,9 +14,10 @@ function parseText(text) {
     }  else if (text === "what is your name") {
         gameOutput.html("my name is chese!");
     }  else if (text === "is jesse and allen a buttface") {
-      gameOutput.html("Yes of cores!");
+      gameOutput.html("Yes!");
     }
 }
+<img id="robot-pic" src="">
 
 
   
