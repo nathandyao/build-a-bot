@@ -15,7 +15,7 @@
 
       </div>      
     </div>
-    <img id="robot-pic"src="https://pbs.twimg.com/profile_images/484689868140711936/WQ6vjWbW_400x400.jpeg">
+    <img id="robot-pic" src="https://pbs.twimg.com/profile_images/484689868140711936/WQ6vjWbW_400x400.jpeg">
     <script src="script.js">
     </script>
   </body>
