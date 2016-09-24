@@ -39,16 +39,8 @@ width: 50px;
               </div>      
               </div>
 
-              <img id="bot-output" src="http://img5.imgtn.bdimg.com/it/u=3409396837,1556064680&fm=21&gp=0.jpg">
+             
 
-
-
-
-
-
-
-
-                <script>
 
 
                 var gameInput = $("#bot-input");
