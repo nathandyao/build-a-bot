@@ -11,10 +11,11 @@ gameInput.keydown(function(keydownEvent) {
 function parseText(text) {    
     if (text === "hello") {
       gameOutput.html("Hi there!");
+    }  else if (text === "what is your name") {
+        gameOutput.html("my name is chese!");
     }
 }
 
-function parseText(text) {    
-  if (text === "what is your name") {
-    gameOutput.html("my name is chese!");
+
+  
 
