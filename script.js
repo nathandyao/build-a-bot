@@ -20,3 +20,9 @@
     </script>
   </body>
 </html>
+    else if (text ==="move") {
+      gameOutput.animate({top: 500});
+    }
+}
+
+
