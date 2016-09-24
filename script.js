@@ -1,1 +1,1 @@
-parseText(gameInput.val()); 
+
