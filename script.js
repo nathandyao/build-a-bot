@@ -13,6 +13,8 @@ function parseText(text) {
       gameOutput.html("Hi there!");
     }  else if (text === "what is your name") {
         gameOutput.html("my name is chese!");
+    }  else if (text === "is jesse and allen a buttface") {
+      gameOutput.html("Yes of cores!");
     }
 }
 
