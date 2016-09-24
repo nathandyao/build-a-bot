@@ -14,3 +14,7 @@ function parseText(text) {
     }
 }
 
+function parseText(text) {    
+  if (text === "what is your name") {
+    gameOutput.html("my name is chese!");
+
