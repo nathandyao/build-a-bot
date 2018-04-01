@@ -1,2 +1,2 @@
 # build-a-bot
-Classadoo generated repo
+Use this for lego ev3 WRO 2018
